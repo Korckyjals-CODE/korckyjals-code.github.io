@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Korckyjals-CODE">
+  <rect width="64" height="64" rx="14" fill="#0b1210"/>
+  <path d="M16 44V20h6.4l9.2 14.8L41 20h6.4v24H41V30.2L34.1 40.8h-4.8L22.4 30.2V44H16z" fill="#7dffa3"/>
+  <rect x="16" y="48" width="32" height="3" rx="1.5" fill="#7dffa3" opacity="0.55"/>
+</svg>

@@ -1,0 +1,402 @@
+{
+  "site": {
+    "brand": "Korckyjals-CODE",
+    "tagline": {
+      "en": "El Salvador consultancy for practical software, automation, and learning tools.",
+      "es": "Consultora de El Salvador para software práctico, automatización y herramientas de aprendizaje."
+    },
+    "languages": ["en", "es"],
+    "defaultLanguage": "en",
+    "email": "info@korckyjals-code.com",
+    "social": [
+      {
+        "id": "github",
+        "label": {
+          "en": "GitHub organization",
+          "es": "Organización en GitHub"
+        },
+        "url": "https://github.com/Korckyjals-CODE"
+      }
+    ],
+    "themeDefault": "dark",
+    "foundedYear": 2018,
+    "location": {
+      "en": "El Salvador",
+      "es": "El Salvador"
+    }
+  },
+  "ui": {
+    "skipToContent": {
+      "en": "Skip to content",
+      "es": "Saltar al contenido"
+    },
+    "openMenu": {
+      "en": "Open menu",
+      "es": "Abrir menú"
+    },
+    "closeMenu": {
+      "en": "Close menu",
+      "es": "Cerrar menú"
+    },
+    "nav": {
+      "about": { "en": "About", "es": "Acerca de" },
+      "path": { "en": "Path", "es": "Ruta" },
+      "experience": { "en": "Experience", "es": "Experiencia" },
+      "projects": { "en": "Projects", "es": "Proyectos" },
+      "skills": { "en": "Skills", "es": "Habilidades" },
+      "contact": { "en": "Contact", "es": "Contacto" }
+    },
+    "theme": {
+      "toLight": { "en": "Switch to light theme", "es": "Cambiar a tema claro" },
+      "toDark": { "en": "Switch to dark theme", "es": "Cambiar a tema oscuro" }
+    },
+    "langSwitch": {
+      "en": "Language",
+      "es": "Idioma"
+    },
+    "loading": {
+      "en": "Loading portfolio…",
+      "es": "Cargando portafolio…"
+    },
+    "error": {
+      "en": "Content could not be loaded. Please refresh, or email info@korckyjals-code.com.",
+      "es": "No se pudo cargar el contenido. Actualice la página o escriba a info@korckyjals-code.com."
+    },
+    "visitProject": {
+      "en": "Visit project",
+      "es": "Ver proyecto"
+    },
+    "externalLink": {
+      "en": "(opens in a new tab)",
+      "es": "(se abre en una pestaña nueva)"
+    }
+  },
+  "hero": {
+    "eyebrow": {
+      "en": "Consultancy · Est. 2018",
+      "es": "Consultora · Desde 2018"
+    },
+    "headline": {
+      "en": "Software that earns its keep.",
+      "es": "Software que vale la pena."
+    },
+    "subhead": {
+      "en": "Korckyjals-CODE designs automation, bots, data tools, and learning products for real workflows—from Office VBA to Python, MATLAB, and MySQL.",
+      "es": "Korckyjals-CODE diseña automatización, bots, herramientas de datos y productos de aprendizaje para flujos reales—desde Office VBA hasta Python, MATLAB y MySQL."
+    },
+    "ctaPrimary": {
+      "label": { "en": "Get in touch", "es": "Contactar" },
+      "href": "#contact"
+    },
+    "ctaSecondary": {
+      "label": { "en": "See public work", "es": "Ver trabajo público" },
+      "href": "#projects"
+    }
+  },
+  "about": {
+    "title": {
+      "en": "About the consultancy",
+      "es": "Acerca de la consultora"
+    },
+    "paragraphs": [
+      {
+        "en": "Korckyjals-CODE is an El Salvador consultancy founded in 2018. The practice focuses on pragmatic engineering: scripts that remove friction, bots that answer questions, and learning tools that stay maintainable.",
+        "es": "Korckyjals-CODE es una consultora de El Salvador fundada en 2018. La práctica se centra en ingeniería pragmática: scripts que quitan fricción, bots que responden preguntas y herramientas de aprendizaje fáciles de mantener."
+      },
+      {
+        "en": "Work spans Office VBA automation, Python Telegram bots, MATLAB analysis, and MySQL-backed systems. Public products and open repositories are shared under the Korckyjals-CODE GitHub organization.",
+        "es": "El trabajo abarca automatización con Office VBA, bots de Telegram en Python, análisis en MATLAB y sistemas con MySQL. Los productos públicos y repositorios abiertos se comparten bajo la organización Korckyjals-CODE en GitHub."
+      }
+    ],
+    "highlights": [
+      {
+        "label": { "en": "Founded", "es": "Fundación" },
+        "value": { "en": "2018", "es": "2018" }
+      },
+      {
+        "label": { "en": "Based in", "es": "Sede" },
+        "value": { "en": "El Salvador", "es": "El Salvador" }
+      },
+      {
+        "label": { "en": "Focus", "es": "Enfoque" },
+        "value": {
+          "en": "Automation & learning tools",
+          "es": "Automatización y aprendizaje"
+        }
+      }
+    ]
+  },
+  "learningPath": {
+    "title": {
+      "en": "Learning path",
+      "es": "Ruta de aprendizaje"
+    },
+    "intro": {
+      "en": "A consultancy timeline of capabilities built over time—topics and tools, not a personal résumé.",
+      "es": "Una línea de tiempo de capacidades construidas por la consultora—temas y herramientas, no un currículum personal."
+    },
+    "items": [
+      {
+        "period": "2018 — [Year]",
+        "title": {
+          "en": "Office automation foundations",
+          "es": "Bases de automatización Office"
+        },
+        "description": {
+          "en": "VBA-driven workflows for document and spreadsheet tasks that teams already live in.",
+          "es": "Flujos con VBA para tareas en documentos y hojas de cálculo que los equipos ya usan a diario."
+        },
+        "topics": ["Office VBA", "Excel", "Word"]
+      },
+      {
+        "period": "[Year] — [Year]",
+        "title": {
+          "en": "Data & numerical tooling",
+          "es": "Datos y herramientas numéricas"
+        },
+        "description": {
+          "en": "MATLAB exploration and MySQL-backed storage patterns for structured project data.",
+          "es": "Exploración en MATLAB y patrones de almacenamiento con MySQL para datos de proyecto estructurados."
+        },
+        "topics": ["MATLAB", "MySQL", "SQL"]
+      },
+      {
+        "period": "[Year] — present",
+        "title": {
+          "en": "Bots, education apps & public products",
+          "es": "Bots, apps educativas y productos públicos"
+        },
+        "description": {
+          "en": "Python Telegram bots, bilingual learning products such as AnselmoBot, and open teaching/utility repositories.",
+          "es": "Bots de Telegram en Python, productos de aprendizaje bilingües como AnselmoBot y repositorios abiertos de enseñanza y utilidad."
+        },
+        "topics": ["Python", "Telegram Bots", "Web"]
+      }
+    ]
+  },
+  "experience": {
+    "title": {
+      "en": "Experience",
+      "es": "Experiencia"
+    },
+    "intro": {
+      "en": "Engagements described at the consultancy level. Client names and personal details are omitted on purpose.",
+      "es": "Trabajos descritos a nivel de consultora. Los nombres de clientes y datos personales se omiten a propósito."
+    },
+    "items": [
+      {
+        "role": {
+          "en": "Software & automation consultancy",
+          "es": "Consultoría de software y automatización"
+        },
+        "org": "Korckyjals-CODE",
+        "period": "2018 — present",
+        "stack": ["Office VBA", "Python", "MATLAB", "MySQL"],
+        "outcomes": [
+          {
+            "en": "Delivered automation and tooling for internal and client workflows without exposing personal or proprietary identifiers here.",
+            "es": "Entregó automatización y herramientas para flujos internos y de clientes, sin exponer identificadores personales o propietarios aquí."
+          },
+          {
+            "en": "Shipped public educational and utility projects under the Korckyjals-CODE organization.",
+            "es": "Publicó proyectos educativos y de utilidad bajo la organización Korckyjals-CODE."
+          },
+          {
+            "en": "[Outcome placeholder — replace with a non-identifying result]",
+            "es": "[Resultado de ejemplo — reemplazar con un resultado no identificable]"
+          }
+        ]
+      },
+      {
+        "role": {
+          "en": "[Engagement title]",
+          "es": "[Título del encargo]"
+        },
+        "org": "Korckyjals-CODE",
+        "period": "[Year] — [Year]",
+        "stack": ["[Stack item]", "Python"],
+        "outcomes": [
+          {
+            "en": "[Outcome placeholder — describe impact without client PII]",
+            "es": "[Resultado de ejemplo — describir impacto sin datos personales del cliente]"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "title": {
+      "en": "Public projects",
+      "es": "Proyectos públicos"
+    },
+    "intro": {
+      "en": "Selected public work. Links point only to public repositories or product sites.",
+      "es": "Trabajo público seleccionado. Los enlaces apuntan solo a repositorios públicos o sitios de producto."
+    },
+    "items": [
+      {
+        "title": "AnselmoBot",
+        "blurb": {
+          "en": "Public bilingual product for conversational learning. Landing available in English and Spanish.",
+          "es": "Producto público bilingüe para aprendizaje conversacional. Landing disponible en inglés y español."
+        },
+        "tags": ["Product", "Bilingual", "Bot"],
+        "url": "https://anselmobot.com"
+      },
+      {
+        "title": "LearningAppsForKids",
+        "blurb": {
+          "en": "Open repository of learning-oriented apps for kids.",
+          "es": "Repositorio abierto de aplicaciones de aprendizaje para niños."
+        },
+        "tags": ["Education", "Apps"],
+        "url": "https://github.com/Korckyjals-CODE/LearningAppsForKids"
+      },
+      {
+        "title": "tech-bloom-tutor",
+        "blurb": {
+          "en": "Public tutoring-related tooling shared under the org.",
+          "es": "Herramientas públicas relacionadas con tutoría compartidas por la organización."
+        },
+        "tags": ["Education", "Tutor"],
+        "url": "https://github.com/Korckyjals-CODE/tech-bloom-tutor"
+      },
+      {
+        "title": "bloom-master-evaluator",
+        "blurb": {
+          "en": "Public evaluation utilities for learning workflows.",
+          "es": "Utilidades públicas de evaluación para flujos de aprendizaje."
+        },
+        "tags": ["Education", "Evaluation"],
+        "url": "https://github.com/Korckyjals-CODE/bloom-master-evaluator"
+      },
+      {
+        "title": "time-in-german",
+        "blurb": {
+          "en": "Public practice tool for telling time in German.",
+          "es": "Herramienta pública para practicar la hora en alemán."
+        },
+        "tags": ["Language", "German"],
+        "url": "https://github.com/Korckyjals-CODE/time-in-german"
+      },
+      {
+        "title": "german-numbers",
+        "blurb": {
+          "en": "Public practice tool for German numbers.",
+          "es": "Herramienta pública para practicar números en alemán."
+        },
+        "tags": ["Language", "German"],
+        "url": "https://github.com/Korckyjals-CODE/german-numbers"
+      },
+      {
+        "title": "ICA_AI_planner",
+        "blurb": {
+          "en": "Public planning-related repository under the organization.",
+          "es": "Repositorio público de planificación bajo la organización."
+        },
+        "tags": ["Planning", "AI"],
+        "url": "https://github.com/Korckyjals-CODE/ICA_AI_planner"
+      },
+      {
+        "title": "VeyonScripts",
+        "blurb": {
+          "en": "Public scripts related to classroom device management workflows.",
+          "es": "Scripts públicos relacionados con gestión de dispositivos en aula."
+        },
+        "tags": ["Scripts", "Classroom"],
+        "url": "https://github.com/Korckyjals-CODE/VeyonScripts"
+      },
+      {
+        "title": "computer-guides",
+        "blurb": {
+          "en": "Public computer how-to guides maintained by the org.",
+          "es": "Guías públicas de informática mantenidas por la organización."
+        },
+        "tags": ["Guides", "Docs"],
+        "url": "https://github.com/Korckyjals-CODE/computer-guides"
+      },
+      {
+        "title": "ikigai",
+        "blurb": {
+          "en": "Public repository exploring ikigai-related tooling or content.",
+          "es": "Repositorio público que explora herramientas o contenido relacionados con ikigai."
+        },
+        "tags": ["Exploration"],
+        "url": "https://github.com/Korckyjals-CODE/ikigai"
+      },
+      {
+        "title": "[Project title]",
+        "blurb": {
+          "en": "[Short project blurb — replace when ready to publish]",
+          "es": "[Breve descripción del proyecto — reemplazar al publicar]"
+        },
+        "tags": ["[Tag]", "Placeholder"],
+        "url": null
+      }
+    ]
+  },
+  "skills": {
+    "title": {
+      "en": "Skills & stack",
+      "es": "Habilidades y stack"
+    },
+    "groups": [
+      {
+        "name": {
+          "en": "Automation",
+          "es": "Automatización"
+        },
+        "items": ["Office VBA", "Excel automation", "Workflow scripting"]
+      },
+      {
+        "name": {
+          "en": "Languages & runtimes",
+          "es": "Lenguajes y entornos"
+        },
+        "items": ["Python", "MATLAB", "SQL", "JavaScript"]
+      },
+      {
+        "name": {
+          "en": "Data & bots",
+          "es": "Datos y bots"
+        },
+        "items": ["MySQL", "Telegram bots", "REST APIs"]
+      },
+      {
+        "name": {
+          "en": "Delivery",
+          "es": "Entrega"
+        },
+        "items": [
+          "Bilingual product UX",
+          "GitHub collaboration",
+          "Static web (HTML/CSS/JS)"
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "title": {
+      "en": "Contact",
+      "es": "Contacto"
+    },
+    "intro": {
+      "en": "Reach the consultancy at the public inbox below. No personal phone numbers or private profiles are listed on this site.",
+      "es": "Escriba a la consultora al correo público abajo. Este sitio no lista teléfonos personales ni perfiles privados."
+    },
+    "emailLabel": {
+      "en": "Email",
+      "es": "Correo"
+    }
+  },
+  "footer": {
+    "note": {
+      "en": "This site is the public face of Korckyjals-CODE. Content is edited in content.json and published via GitHub Pages.",
+      "es": "Este sitio es la cara pública de Korckyjals-CODE. El contenido se edita en content.json y se publica con GitHub Pages."
+    },
+    "copyright": {
+      "en": "© {year} Korckyjals-CODE. All rights reserved.",
+      "es": "© {year} Korckyjals-CODE. Todos los derechos reservados."
+    }
+  }
+}
