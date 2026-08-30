@@ -195,11 +195,15 @@
   function renderProjects() {
     return `<div class="project-grid">${content.projects.items
       .map((item) => {
+        const status = item.status
+          ? `<p class="project-card__status">${escapeHtml(t(item.status))}</p>`
+          : "";
         const link = item.url
           ? `<a class="project-card__link" href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(t(content.ui.visitProject))}${externalHint()}</a>`
           : "";
         return `<article class="project-card">
           <h3>${escapeHtml(item.title)}</h3>
+          ${status}
           <p>${escapeHtml(t(item.blurb))}</p>
           ${renderTags(item.tags)}
           ${link}
