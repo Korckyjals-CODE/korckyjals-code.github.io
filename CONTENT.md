@@ -55,7 +55,7 @@ Plain strings are allowed where language does not matter (brand name, email, sta
 
 **projects.items**
 
-- `title`, `blurb` (i18n), `tags` (string[]), `url` (string or `null`)
+- `title`, `blurb` (i18n), `tags` (string[]), `url` (string, optional), `status` (i18n, optional)
 
 **skills.groups**
 

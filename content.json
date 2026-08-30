@@ -5,7 +5,10 @@
       "en": "El Salvador consultancy for practical software, automation, and learning tools.",
       "es": "Consultora de El Salvador para software práctico, automatización y herramientas de aprendizaje."
     },
-    "languages": ["en", "es"],
+    "languages": [
+      "en",
+      "es"
+    ],
     "defaultLanguage": "en",
     "email": "info@korckyjals-code.com",
     "social": [
@@ -39,16 +42,40 @@
       "es": "Cerrar menú"
     },
     "nav": {
-      "about": { "en": "About", "es": "Acerca de" },
-      "path": { "en": "Path", "es": "Ruta" },
-      "experience": { "en": "Experience", "es": "Experiencia" },
-      "projects": { "en": "Projects", "es": "Proyectos" },
-      "skills": { "en": "Skills", "es": "Habilidades" },
-      "contact": { "en": "Contact", "es": "Contacto" }
+      "about": {
+        "en": "About",
+        "es": "Acerca de"
+      },
+      "path": {
+        "en": "Path",
+        "es": "Ruta"
+      },
+      "experience": {
+        "en": "Experience",
+        "es": "Experiencia"
+      },
+      "projects": {
+        "en": "Projects",
+        "es": "Proyectos"
+      },
+      "skills": {
+        "en": "Skills",
+        "es": "Habilidades"
+      },
+      "contact": {
+        "en": "Contact",
+        "es": "Contacto"
+      }
     },
     "theme": {
-      "toLight": { "en": "Switch to light theme", "es": "Cambiar a tema claro" },
-      "toDark": { "en": "Switch to dark theme", "es": "Cambiar a tema oscuro" }
+      "toLight": {
+        "en": "Switch to light theme",
+        "es": "Cambiar a tema claro"
+      },
+      "toDark": {
+        "en": "Switch to dark theme",
+        "es": "Cambiar a tema oscuro"
+      }
     },
     "langSwitch": {
       "en": "Language",
@@ -81,15 +108,21 @@
       "es": "Software que vale la pena."
     },
     "subhead": {
-      "en": "Korckyjals-CODE designs automation, bots, data tools, and learning products for real workflows—from Office VBA to Python, MATLAB, and MySQL.",
-      "es": "Korckyjals-CODE diseña automatización, bots, herramientas de datos y productos de aprendizaje para flujos reales—desde Office VBA hasta Python, MATLAB y MySQL."
+      "en": "Korckyjals-CODE designs automation, bots, data tools, and learning products for real workflows — from Office VBA to Python, MATLAB, and MySQL.",
+      "es": "Korckyjals-CODE diseña automatización, bots, herramientas de datos y productos de aprendizaje para flujos reales, desde Office VBA hasta Python, MATLAB y MySQL."
     },
     "ctaPrimary": {
-      "label": { "en": "Get in touch", "es": "Contactar" },
+      "label": {
+        "en": "Get in touch",
+        "es": "Contactar"
+      },
       "href": "#contact"
     },
     "ctaSecondary": {
-      "label": { "en": "See public work", "es": "Ver trabajo público" },
+      "label": {
+        "en": "See public work",
+        "es": "Ver trabajo público"
+      },
       "href": "#projects"
     }
   },
@@ -100,28 +133,53 @@
     },
     "paragraphs": [
       {
-        "en": "Korckyjals-CODE is an El Salvador consultancy founded in 2018. The practice focuses on pragmatic engineering: scripts that remove friction, bots that answer questions, and learning tools that stay maintainable.",
-        "es": "Korckyjals-CODE es una consultora de El Salvador fundada en 2018. La práctica se centra en ingeniería pragmática: scripts que quitan fricción, bots que responden preguntas y herramientas de aprendizaje fáciles de mantener."
+        "en": "Korckyjals-CODE is an El Salvador consultancy founded in 2018. The practice sits at the intersection of electronics engineering, telecommunications, higher education, and software: automation that removes friction, bots that answer questions, and learning tools that stay maintainable.",
+        "es": "Korckyjals-CODE es una consultora de El Salvador fundada en 2018. La práctica une ingeniería electrónica, telecomunicaciones, educación superior y software: automatización que quita fricción, bots que responden preguntas y herramientas de aprendizaje fáciles de mantener."
       },
       {
-        "en": "Work spans Office VBA automation, Python Telegram bots, MATLAB analysis, and MySQL-backed systems. Public products and open repositories are shared under the Korckyjals-CODE GitHub organization.",
-        "es": "El trabajo abarca automatización con Office VBA, bots de Telegram en Python, análisis en MATLAB y sistemas con MySQL. Los productos públicos y repositorios abiertos se comparten bajo la organización Korckyjals-CODE en GitHub."
+        "en": "Twenty-plus years of professional work span teaching, cellular-network engineering, and independent software delivery. Public products include AnselmoBot, Telegram-based school café systems, and open learning repositories. Current work includes EduCafé, FlashLogs, and AI-assisted software delivery.",
+        "es": "Más de veinte años de trabajo profesional cubren la docencia, la ingeniería de redes celulares y el software independiente. Los productos públicos incluyen AnselmoBot, sistemas de cafetería escolar en Telegram y repositorios abiertos de aprendizaje. El trabajo actual incluye EduCafé, FlashLogs y entrega de software asistida por IA."
       }
     ],
     "highlights": [
       {
-        "label": { "en": "Founded", "es": "Fundación" },
-        "value": { "en": "2018", "es": "2018" }
-      },
-      {
-        "label": { "en": "Based in", "es": "Sede" },
-        "value": { "en": "El Salvador", "es": "El Salvador" }
-      },
-      {
-        "label": { "en": "Focus", "es": "Enfoque" },
+        "label": {
+          "en": "Founded",
+          "es": "Fundación"
+        },
         "value": {
-          "en": "Automation & learning tools",
-          "es": "Automatización y aprendizaje"
+          "en": "2018",
+          "es": "2018"
+        }
+      },
+      {
+        "label": {
+          "en": "Based in",
+          "es": "Sede"
+        },
+        "value": {
+          "en": "El Salvador",
+          "es": "El Salvador"
+        }
+      },
+      {
+        "label": {
+          "en": "Focus",
+          "es": "Enfoque"
+        },
+        "value": {
+          "en": "Automation, bots & learning tools",
+          "es": "Automatización, bots y aprendizaje"
+        }
+      },
+      {
+        "label": {
+          "en": "Languages",
+          "es": "Idiomas"
+        },
+        "value": {
+          "en": "English & Spanish",
+          "es": "Inglés y español"
         }
       }
     ]
@@ -132,45 +190,95 @@
       "es": "Ruta de aprendizaje"
     },
     "intro": {
-      "en": "A consultancy timeline of capabilities built over time—topics and tools, not a personal résumé.",
-      "es": "Una línea de tiempo de capacidades construidas por la consultora—temas y herramientas, no un currículum personal."
+      "en": "Capabilities built over time: electronics and teaching first, then telecom engineering, then a consultancy around automation, bots, and AI-assisted product work.",
+      "es": "Capacidades construidas con el tiempo: primero electrónica y docencia, luego ingeniería de telecomunicaciones, y después una consultora de automatización, bots y producto asistido por IA."
     },
     "items": [
       {
-        "period": "2018 — [Year]",
+        "period": "1997 — 2003",
         "title": {
-          "en": "Office automation foundations",
-          "es": "Bases de automatización Office"
+          "en": "Electronics engineering",
+          "es": "Ingeniería electrónica"
         },
         "description": {
-          "en": "VBA-driven workflows for document and spreadsheet tasks that teams already live in.",
-          "es": "Flujos con VBA para tareas en documentos y hojas de cálculo que los equipos ya usan a diario."
+          "en": "Electronics Engineer, Cum Laude, Don Bosco University. Associate curriculum in electronics completed in parallel. Thesis work on improved digital image zoom; research in image processing, pattern recognition, and vowel-sound recognition.",
+          "es": "Ingeniería electrónica, Cum Laude, Universidad Don Bosco. Pensum técnico en electrónica cumplido en paralelo. Tesis sobre zoom digital de imágenes; investigación en procesamiento de imágenes, reconocimiento de patrones y de vocales."
         },
-        "topics": ["Office VBA", "Excel", "Word"]
+        "topics": [
+          "Electronics",
+          "MATLAB",
+          "Image processing",
+          "Pattern recognition"
+        ]
       },
       {
-        "period": "[Year] — [Year]",
+        "period": "2003 — 2007",
         "title": {
-          "en": "Data & numerical tooling",
-          "es": "Datos y herramientas numéricas"
+          "en": "Teaching & research",
+          "es": "Docencia e investigación"
         },
         "description": {
-          "en": "MATLAB exploration and MySQL-backed storage patterns for structured project data.",
-          "es": "Exploración en MATLAB y patrones de almacenamiento con MySQL para datos de proyecto estructurados."
+          "en": "Full-time professor of electronics, telecommunications, programming, and engineering computation. Original MATLAB curriculum and methodology; MATLAB tools for plagiarism detection and grading; CONCAPAN / IEEE participation.",
+          "es": "Profesorado de tiempo completo en electrónica, telecomunicaciones, programación y computación para ingeniería. Currículo original de MATLAB; herramientas MATLAB para detectar plagio y calificar; participación en CONCAPAN / IEEE."
         },
-        "topics": ["MATLAB", "MySQL", "SQL"]
+        "topics": [
+          "MATLAB",
+          "Teaching",
+          "DSP",
+          "Curriculum design"
+        ]
       },
       {
-        "period": "[Year] — present",
+        "period": "2007 — 2017",
         "title": {
-          "en": "Bots, education apps & public products",
-          "es": "Bots, apps educativas y productos públicos"
+          "en": "Telecom engineering",
+          "es": "Ingeniería de telecomunicaciones"
         },
         "description": {
-          "en": "Python Telegram bots, bilingual learning products such as AnselmoBot, and open teaching/utility repositories.",
-          "es": "Bots de Telegram en Python, productos de aprendizaje bilingües como AnselmoBot y repositorios abiertos de enseñanza y utilidad."
+          "en": "A decade at Ericsson: field supervision of GSM, UMTS, and microwave installs across Latin America, then advanced engineering for document quality, BOM checks, and Excel tools that cut hours of site-deployment data work.",
+          "es": "Una década en Ericsson: supervisión de instalaciones GSM, UMTS y microondas en América Latina, y luego ingeniería avanzada de calidad documental, listas de materiales y herramientas Excel que recortaron horas de datos de despliegue."
         },
-        "topics": ["Python", "Telegram Bots", "Web"]
+        "topics": [
+          "GSM/UMTS",
+          "Microwave",
+          "Excel",
+          "Engineering docs"
+        ]
+      },
+      {
+        "period": "2018 — 2023",
+        "title": {
+          "en": "Consultancy, VBA & IoT",
+          "es": "Consultoría, VBA e IoT"
+        },
+        "description": {
+          "en": "Korckyjals-CODE founded. Office VBA automation and AnselmoBot (email-driven Office tasks). Visio automation for Ericsson Brazil site drawings. C firmware maintenance for IoT devices under Agile (Git, Jira, Bitbucket).",
+          "es": "Se funda Korckyjals-CODE. Automatización con Office VBA y AnselmoBot (tareas de Office por correo). Automatización Visio para dibujos de sitios de Ericsson Brasil. Mantenimiento de firmware en C para IoT con Agile (Git, Jira, Bitbucket)."
+        },
+        "topics": [
+          "VBA",
+          "Python",
+          "C",
+          "Git",
+          "Agile"
+        ]
+      },
+      {
+        "period": "2023 — present",
+        "title": {
+          "en": "Education tech & AI-assisted products",
+          "es": "Edtech y productos con IA"
+        },
+        "description": {
+          "en": "Science and informatics teaching; Microsoft Office Specialist Associate (Word, Excel, PowerPoint). School process automation in Excel/VBA. EduCafé and FlashLogs. AI-assisted SDLC: PRDs, epics, tickets, tests, and an orchestrator in development.",
+          "es": "Docencia de ciencias e informática; Microsoft Office Specialist Associate (Word, Excel, PowerPoint). Automatización escolar en Excel/VBA. EduCafé y FlashLogs. Ciclo de vida de software con IA: PRD, épicas, tickets, pruebas y un orquestador en desarrollo."
+        },
+        "topics": [
+          "Python",
+          "VBA",
+          "AI-assisted SDLC",
+          "Web"
+        ]
       }
     ]
   },
@@ -180,45 +288,216 @@
       "es": "Experiencia"
     },
     "intro": {
-      "en": "Engagements described at the consultancy level. Client names and personal details are omitted on purpose.",
-      "es": "Trabajos descritos a nivel de consultora. Los nombres de clientes y datos personales se omiten a propósito."
+      "en": "Selected roles and engagements. Personal contact details are omitted on purpose.",
+      "es": "Roles y trabajos seleccionados. Los datos personales de contacto se omiten a propósito."
     },
     "items": [
       {
         "role": {
-          "en": "Software & automation consultancy",
-          "es": "Consultoría de software y automatización"
+          "en": "Informatics teacher",
+          "es": "Profesor de Informática"
         },
-        "org": "Korckyjals-CODE",
-        "period": "2018 — present",
-        "stack": ["Office VBA", "Python", "MATLAB", "MySQL"],
+        "org": "Colegio ABC",
+        "period": "2024-07 — present",
+        "stack": [
+          "TBox",
+          "Excel/VBA",
+          "Python",
+          "Google Workspace"
+        ],
         "outcomes": [
           {
-            "en": "Delivered automation and tooling for internal and client workflows without exposing personal or proprietary identifiers here.",
-            "es": "Entregó automatización y herramientas para flujos internos y de clientes, sin exponer identificadores personales o propietarios aquí."
+            "en": "Informatics in English across primary and secondary via TBox.",
+            "es": "Clases de informática en inglés en primaria y secundaria a través de TBox."
           },
           {
-            "en": "Shipped public educational and utility projects under the Korckyjals-CODE organization.",
-            "es": "Publicó proyectos educativos y de utilidad bajo la organización Korckyjals-CODE."
+            "en": "Weekly Hackathon Club on technology, programming, problem-solving, and innovation.",
+            "es": "Hackathon Club semanal de tecnología, programación, resolución de problemas e innovación."
           },
           {
-            "en": "[Outcome placeholder — replace with a non-identifying result]",
-            "es": "[Resultado de ejemplo — reemplazar con un resultado no identificable]"
+            "en": "Excel/VBA system for weekly and yearly planning, gradebooks, attendance, and TBox sequencing.",
+            "es": "Sistema Excel/VBA para planificaciones, libretas, asistencia y secuencia TBox."
           }
         ]
       },
       {
         "role": {
-          "en": "[Engagement title]",
-          "es": "[Título del encargo]"
+          "en": "Science teacher",
+          "es": "Docente de ciencias"
         },
-        "org": "Korckyjals-CODE",
-        "period": "[Year] — [Year]",
-        "stack": ["[Stack item]", "Python"],
+        "org": "Escuela Americana San Salvador",
+        "period": "2023-08 — 2024-06",
+        "stack": [
+          "NGSS",
+          "Chemistry",
+          "Environmental Science",
+          "Human Anatomy"
+        ],
         "outcomes": [
           {
-            "en": "[Outcome placeholder — describe impact without client PII]",
-            "es": "[Resultado de ejemplo — describir impacto sin datos personales del cliente]"
+            "en": "Chemistry, Environmental Science, and Human Anatomy in English, aligned to NGSS.",
+            "es": "Química, Ciencias Ambientales y Anatomía Humana en inglés, alineadas a NGSS."
+          },
+          {
+            "en": "Activities designed so students stay active in their own learning.",
+            "es": "Actividades para que el estudiantado participe de forma activa en su aprendizaje."
+          }
+        ]
+      },
+      {
+        "role": {
+          "en": "Firmware maintainer (IoT)",
+          "es": "Mantenimiento de firmware (IoT)"
+        },
+        "org": "Amatis Devices, via AutomatID / Microcode",
+        "period": "2021-08 — 2023-02",
+        "stack": [
+          "C",
+          "Git",
+          "Jira",
+          "Bitbucket",
+          "Agile"
+        ],
+        "outcomes": [
+          {
+            "en": "Maintained, tested, migrated, and improved C firmware for a family of IoT devices.",
+            "es": "Mantenimiento, pruebas, migración y mejora de firmware en C para una familia de dispositivos IoT."
+          },
+          {
+            "en": "Large Git repositories with submodules; Agile collaboration over Slack, Jira, and Bitbucket.",
+            "es": "Repositorios Git con submódulos; colaboración Agile con Slack, Jira y Bitbucket."
+          }
+        ]
+      },
+      {
+        "role": {
+          "en": "Independent software developer",
+          "es": "Desarrollador de software independiente"
+        },
+        "org": "Korckyjals-CODE",
+        "period": "2018-01 — present",
+        "stack": [
+          "Office VBA",
+          "Python",
+          "Telegram",
+          "MATLAB",
+          "MySQL"
+        ],
+        "outcomes": [
+          {
+            "en": "Office VBA tools that take hours off repetitive document, drawing, and data work.",
+            "es": "Herramientas Office VBA que ahorran horas en documentos, dibujos y datos repetitivos."
+          },
+          {
+            "en": "AnselmoBot: email-driven Office automation for real customers (anselmobot.com).",
+            "es": "AnselmoBot: automatización de Office por correo para clientes reales (anselmobot.com)."
+          },
+          {
+            "en": "Telegram bot systems as a low-cost alternative to custom web and mobile apps, including a school café.",
+            "es": "Sistemas de bots de Telegram como alternativa a apps web y móviles, incluida una cafetería escolar."
+          }
+        ]
+      },
+      {
+        "role": {
+          "en": "Consultant software developer",
+          "es": "Consultor de software"
+        },
+        "org": "Ericsson EGS Brazil",
+        "period": "2018-01 — 2019-07",
+        "stack": [
+          "Visio VBA",
+          "Excel"
+        ],
+        "outcomes": [
+          {
+            "en": "Visio tool that turned site-installation drawings into inventories, forms, sheets, and reports.",
+            "es": "Herramienta Visio que convierte dibujos de instalación en inventarios, formularios, fichas y reportes."
+          },
+          {
+            "en": "Processing time from about 5 hours to 5 minutes per site; on the order of a thousand sites, ~900 labor hours in scope.",
+            "es": "De unas 5 horas a 5 minutos por sitio; del orden de mil sitios, unas 900 horas-hombre en alcance."
+          }
+        ]
+      },
+      {
+        "role": {
+          "en": "Advanced engineer",
+          "es": "Ingeniero avanzado"
+        },
+        "org": "Ericsson",
+        "period": "2012-07 — 2017-12",
+        "stack": [
+          "Excel",
+          "Engineering documentation"
+        ],
+        "outcomes": [
+          {
+            "en": "Documentation for cellular-site installation covering hundreds of sites.",
+            "es": "Documentación de instalación de sitios celulares para cientos de sitios."
+          },
+          {
+            "en": "Multi-layer review process for engineering documents and BOM checks that cut delivery time and errors.",
+            "es": "Proceso de revisión en capas para documentos de ingeniería y listas de materiales, con menos tiempo y menos errores."
+          },
+          {
+            "en": "Excel tools for project deployment data collection and processing.",
+            "es": "Herramientas Excel para recolectar y procesar datos de despliegue."
+          }
+        ]
+      },
+      {
+        "role": {
+          "en": "Field supervisor",
+          "es": "Supervisor de campo"
+        },
+        "org": "Ericsson",
+        "period": "2007-12 — 2012-07",
+        "stack": [
+          "GSM",
+          "UMTS",
+          "Microwave"
+        ],
+        "outcomes": [
+          {
+            "en": "Supervised GSM, UMTS, and microwave equipment installation.",
+            "es": "Supervisión de instalación de equipos GSM, UMTS y microondas."
+          },
+          {
+            "en": "Safety and standard-practice checks for crews, including work at heights.",
+            "es": "Verificación de prácticas y seguridad, incluido trabajo en alturas."
+          },
+          {
+            "en": "Site activations across several Latin American countries.",
+            "es": "Activación de sitios en varios países de América Latina."
+          }
+        ]
+      },
+      {
+        "role": {
+          "en": "Full-time professor",
+          "es": "Profesor de tiempo completo"
+        },
+        "org": "Don Bosco University",
+        "period": "2003-07 — 2007-12",
+        "stack": [
+          "MATLAB",
+          "C",
+          "Electronics",
+          "Telecommunications"
+        ],
+        "outcomes": [
+          {
+            "en": "Taught electronics, telecommunications, programming, and engineering-oriented computation.",
+            "es": "Cátedra de electrónica, telecomunicaciones, programación y computación para ingeniería."
+          },
+          {
+            "en": "Research in digital image processing, automatic voice recognition, and pattern recognition.",
+            "es": "Investigación en procesamiento digital de imágenes, reconocimiento de voz y de patrones."
+          },
+          {
+            "en": "Original MATLAB curriculum and tools for plagiarism detection and assignment grading.",
+            "es": "Currículo original de MATLAB y herramientas para detectar plagio y calificar tareas."
           }
         ]
       }
@@ -226,151 +505,284 @@
   },
   "projects": {
     "title": {
-      "en": "Public projects",
-      "es": "Proyectos públicos"
+      "en": "Projects",
+      "es": "Proyectos"
     },
     "intro": {
-      "en": "Selected public work. Links point only to public repositories or product sites.",
-      "es": "Trabajo público seleccionado. Los enlaces apuntan solo a repositorios públicos o sitios de producto."
+      "en": "Products and public repositories. Private client work is described without personal or customer PII.",
+      "es": "Productos y repositorios públicos. El trabajo privado se describe sin datos personales ni de clientes."
     },
     "items": [
       {
+        "title": "EduCafé",
+        "blurb": {
+          "en": "Web app for school cafeterias: parents select and pay for meals, staff fulfill daily orders, administrators supervise. Built with an AI-assisted SDLC (PRD, epics, tickets, tests, Asana via MCP). Earlier version ran as Telegram bots on Heroku; web stack uses Vercel and Supabase.",
+          "es": "Web para cafeterías escolares: las familias eligen y pagan, el personal cumple pedidos, la administración supervisa. Ciclo de vida con IA (PRD, épicas, tickets, pruebas, Asana vía MCP). La versión previa fue bots de Telegram en Heroku; la web usa Vercel y Supabase."
+        },
+        "tags": [
+          "Web",
+          "Python",
+          "Vercel",
+          "Supabase",
+          "Telegram"
+        ],
+        "status": {
+          "en": "Ongoing",
+          "es": "En curso"
+        }
+      },
+      {
         "title": "AnselmoBot",
         "blurb": {
-          "en": "Public bilingual product for conversational learning. Landing available in English and Spanish.",
-          "es": "Producto público bilingüe para aprendizaje conversacional. Landing disponible en inglés y español."
+          "en": "Email-based Office automation: customers send files, predefined tasks run, results come back in minutes. One fruit-and-vegetable order consolidation went from about 4 hours to 5 minutes for ~60 weekly orders. Another task loads logistics data to a database and sends management reports.",
+          "es": "Automatización de Office por correo: el cliente envía archivos, corre una tarea definida y recibe resultados en minutos. La consolidación de pedidos de frutas y verduras pasó de unas 4 horas a 5 minutos para ~60 pedidos semanales. Otra tarea carga datos logísticos a una base y envía reportes."
         },
-        "tags": ["Product", "Bilingual", "Bot"],
+        "tags": [
+          "Outlook VBA",
+          "Excel",
+          "Email"
+        ],
         "url": "https://anselmobot.com"
       },
       {
-        "title": "LearningAppsForKids",
+        "title": "FlashLogs",
         "blurb": {
-          "en": "Open repository of learning-oriented apps for kids.",
-          "es": "Repositorio abierto de aplicaciones de aprendizaje para niños."
+          "en": "Voice-powered academic logging: fast classroom observations turned into parent-facing updates. Built with Lovable; payment integration for international customers is the next step.",
+          "es": "Bitácora académica por voz: observaciones de aula que se convierten en actualizaciones para familias. Hecho con Lovable; el siguiente paso es pagos internacionales."
         },
-        "tags": ["Education", "Apps"],
+        "tags": [
+          "Education",
+          "Web"
+        ],
+        "status": {
+          "en": "Near ready",
+          "es": "Casi listo"
+        }
+      },
+      {
+        "title": "School process automation",
+        "blurb": {
+          "en": "Macro-enabled Excel system for a school: weekly and yearly planning, syllabi from Word templates, gradebooks, class statistics, TBox activity sequencing, attendance reports, and Veyon classroom-message support. A Power Automate flow uploads gradebooks to TBox.",
+          "es": "Excel con macros para un colegio: planificaciones semanales y anuales, sílabos desde plantillas Word, libretas, estadísticas, secuencia TBox, asistencia y mensajes Veyon. Un flujo de Power Automate sube libretas a TBox."
+        },
+        "tags": [
+          "Excel",
+          "VBA",
+          "Word",
+          "Power Automate"
+        ]
+      },
+      {
+        "title": "Ericsson Brazil site-drawing automation",
+        "blurb": {
+          "en": "Visio analysis of telecom site-installation drawings to auto-generate inventories, forms, technical sheets, and reports. About 5 hours to 5 minutes per site.",
+          "es": "Análisis Visio de dibujos de instalación para inventarios, formularios, fichas técnicas y reportes. De unas 5 horas a 5 minutos por sitio."
+        },
+        "tags": [
+          "Visio VBA",
+          "Excel"
+        ]
+      },
+      {
+        "title": "Learning apps for kids",
+        "blurb": {
+          "en": "Collection of web apps to reinforce math, Spanish, and German.",
+          "es": "Colección de webapps para reforzar matemática, español y alemán."
+        },
+        "tags": [
+          "JavaScript",
+          "Education"
+        ],
         "url": "https://github.com/Korckyjals-CODE/LearningAppsForKids"
+      },
+      {
+        "title": "Time in German",
+        "blurb": {
+          "en": "Practice telling time in German, including Uhr, viertel, dreiviertel, and halb.",
+          "es": "Práctica para decir la hora en alemán, con Uhr, viertel, dreiviertel y halb."
+        },
+        "tags": [
+          "JavaScript",
+          "German"
+        ],
+        "url": "https://github.com/Korckyjals-CODE/time-in-german"
+      },
+      {
+        "title": "German numbers",
+        "blurb": {
+          "en": "Practice spelling German numbers from 1 to 100.",
+          "es": "Práctica de la escritura de los números en alemán del 1 al 100."
+        },
+        "tags": [
+          "JavaScript",
+          "German"
+        ],
+        "url": "https://github.com/Korckyjals-CODE/german-numbers"
       },
       {
         "title": "tech-bloom-tutor",
         "blurb": {
-          "en": "Public tutoring-related tooling shared under the org.",
-          "es": "Herramientas públicas relacionadas con tutoría compartidas por la organización."
+          "en": "Tutor that teaches technical skills using Bloom's Taxonomy.",
+          "es": "Tutor que enseña habilidades técnicas con la taxonomía de Bloom."
         },
-        "tags": ["Education", "Tutor"],
+        "tags": [
+          "Education",
+          "Bloom"
+        ],
         "url": "https://github.com/Korckyjals-CODE/tech-bloom-tutor"
       },
       {
         "title": "bloom-master-evaluator",
         "blurb": {
-          "en": "Public evaluation utilities for learning workflows.",
-          "es": "Utilidades públicas de evaluación para flujos de aprendizaje."
+          "en": "Prompts to evaluate technical knowledge against Bloom's Taxonomy.",
+          "es": "Prompts para evaluar conocimiento técnico con la taxonomía de Bloom."
         },
-        "tags": ["Education", "Evaluation"],
+        "tags": [
+          "Education",
+          "Evaluation"
+        ],
         "url": "https://github.com/Korckyjals-CODE/bloom-master-evaluator"
       },
       {
-        "title": "time-in-german",
+        "title": "ICA AI planner",
         "blurb": {
-          "en": "Public practice tool for telling time in German.",
-          "es": "Herramienta pública para practicar la hora en alemán."
+          "en": "AI-assisted tool for International Curriculum Association planning.",
+          "es": "Herramienta con IA para planificaciones de la International Curriculum Association."
         },
-        "tags": ["Language", "German"],
-        "url": "https://github.com/Korckyjals-CODE/time-in-german"
-      },
-      {
-        "title": "german-numbers",
-        "blurb": {
-          "en": "Public practice tool for German numbers.",
-          "es": "Herramienta pública para practicar números en alemán."
-        },
-        "tags": ["Language", "German"],
-        "url": "https://github.com/Korckyjals-CODE/german-numbers"
-      },
-      {
-        "title": "ICA_AI_planner",
-        "blurb": {
-          "en": "Public planning-related repository under the organization.",
-          "es": "Repositorio público de planificación bajo la organización."
-        },
-        "tags": ["Planning", "AI"],
+        "tags": [
+          "Education",
+          "AI"
+        ],
         "url": "https://github.com/Korckyjals-CODE/ICA_AI_planner"
       },
       {
         "title": "VeyonScripts",
         "blurb": {
-          "en": "Public scripts related to classroom device management workflows.",
-          "es": "Scripts públicos relacionados con gestión de dispositivos en aula."
+          "en": "Scripts for Veyon in a classroom setting.",
+          "es": "Scripts para usar Veyon en el aula."
         },
-        "tags": ["Scripts", "Classroom"],
+        "tags": [
+          "Classroom",
+          "Veyon"
+        ],
         "url": "https://github.com/Korckyjals-CODE/VeyonScripts"
       },
       {
-        "title": "computer-guides",
+        "title": "Ikigai",
         "blurb": {
-          "en": "Public computer how-to guides maintained by the org.",
-          "es": "Guías públicas de informática mantenidas por la organización."
+          "en": "A small site of questions for the overlap of what you love, what you are good at, what the world needs, and what you can be paid for.",
+          "es": "Una página de preguntas sobre el cruce entre lo que amas, en lo que eres bueno, lo que el mundo necesita y por lo que te pagarían."
         },
-        "tags": ["Guides", "Docs"],
-        "url": "https://github.com/Korckyjals-CODE/computer-guides"
-      },
-      {
-        "title": "ikigai",
-        "blurb": {
-          "en": "Public repository exploring ikigai-related tooling or content.",
-          "es": "Repositorio público que explora herramientas o contenido relacionados con ikigai."
-        },
-        "tags": ["Exploration"],
+        "tags": [
+          "Web"
+        ],
         "url": "https://github.com/Korckyjals-CODE/ikigai"
-      },
-      {
-        "title": "[Project title]",
-        "blurb": {
-          "en": "[Short project blurb — replace when ready to publish]",
-          "es": "[Breve descripción del proyecto — reemplazar al publicar]"
-        },
-        "tags": ["[Tag]", "Placeholder"],
-        "url": null
       }
     ]
   },
   "skills": {
     "title": {
-      "en": "Skills & stack",
-      "es": "Habilidades y stack"
+      "en": "Skills",
+      "es": "Habilidades"
     },
     "groups": [
       {
         "name": {
-          "en": "Automation",
-          "es": "Automatización"
-        },
-        "items": ["Office VBA", "Excel automation", "Workflow scripting"]
-      },
-      {
-        "name": {
-          "en": "Languages & runtimes",
-          "es": "Lenguajes y entornos"
-        },
-        "items": ["Python", "MATLAB", "SQL", "JavaScript"]
-      },
-      {
-        "name": {
-          "en": "Data & bots",
-          "es": "Datos y bots"
-        },
-        "items": ["MySQL", "Telegram bots", "REST APIs"]
-      },
-      {
-        "name": {
-          "en": "Delivery",
-          "es": "Entrega"
+          "en": "Programming & automation",
+          "es": "Programación y automatización"
         },
         "items": [
-          "Bilingual product UX",
-          "GitHub collaboration",
-          "Static web (HTML/CSS/JS)"
+          "Excel VBA",
+          "Outlook VBA",
+          "Access VBA",
+          "Visio VBA",
+          "Python",
+          "MATLAB",
+          "C",
+          "Power Automate"
+        ]
+      },
+      {
+        "name": {
+          "en": "Data & Office",
+          "es": "Datos y Office"
+        },
+        "items": [
+          "Excel",
+          "Word",
+          "Power Query",
+          "Power BI",
+          "MySQL",
+          "Microsoft Office Specialist Associate"
+        ]
+      },
+      {
+        "name": {
+          "en": "Web & cloud",
+          "es": "Web y nube"
+        },
+        "items": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Angular",
+          "Vercel",
+          "Supabase",
+          "Heroku"
+        ]
+      },
+      {
+        "name": {
+          "en": "AI-assisted delivery",
+          "es": "Entrega asistida por IA"
+        },
+        "items": [
+          "Cursor",
+          "Codex",
+          "ChatGPT",
+          "PRD decomposition",
+          "Epics & tickets",
+          "Automated tests",
+          "MCP / Asana"
+        ]
+      },
+      {
+        "name": {
+          "en": "Education platforms",
+          "es": "Plataformas educativas"
+        },
+        "items": [
+          "TBox",
+          "Google Classroom",
+          "Google Workspace",
+          "Kahoot",
+          "Nearpod",
+          "Atlas",
+          "PowerSchool",
+          "Veyon"
+        ]
+      },
+      {
+        "name": {
+          "en": "Telecom & field",
+          "es": "Telecom y campo"
+        },
+        "items": [
+          "GSM",
+          "UMTS",
+          "Microwave",
+          "Engineering documentation",
+          "AutoCAD"
+        ]
+      },
+      {
+        "name": {
+          "en": "Working languages",
+          "es": "Idiomas de trabajo"
+        },
+        "items": [
+          "Spanish",
+          "English"
         ]
       }
     ]
@@ -381,8 +793,8 @@
       "es": "Contacto"
     },
     "intro": {
-      "en": "Reach the consultancy at the public inbox below. No personal phone numbers or private profiles are listed on this site.",
-      "es": "Escriba a la consultora al correo público abajo. Este sitio no lista teléfonos personales ni perfiles privados."
+      "en": "Write to the public inbox below. No personal phone numbers or private profiles are listed.",
+      "es": "Escriba al correo público. No se publican teléfonos personales ni perfiles privados."
     },
     "emailLabel": {
       "en": "Email",
@@ -391,12 +803,12 @@
   },
   "footer": {
     "note": {
-      "en": "This site is the public face of Korckyjals-CODE. Content is edited in content.json and published via GitHub Pages.",
-      "es": "Este sitio es la cara pública de Korckyjals-CODE. El contenido se edita en content.json y se publica con GitHub Pages."
+      "en": "This site is a consultancy portfolio. It does not publish a personal name or private contact details.",
+      "es": "Este sitio es el portafolio de la consultora. No publica un nombre personal ni datos privados de contacto."
     },
     "copyright": {
-      "en": "© {year} Korckyjals-CODE. All rights reserved.",
-      "es": "© {year} Korckyjals-CODE. Todos los derechos reservados."
+      "en": "Korckyjals-CODE",
+      "es": "Korckyjals-CODE"
     }
   }
 }

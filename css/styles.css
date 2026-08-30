@@ -634,6 +634,15 @@ html[data-theme="light"] .icon-btn__sun {
   transform: translateY(-2px);
 }
 
+.project-card__status {
+  margin: 0.45rem 0 0;
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
 .project-card__link {
   margin-top: auto;
   padding-top: 1rem;
