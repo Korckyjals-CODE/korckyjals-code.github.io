@@ -583,6 +583,18 @@
         "url": "https://flashlogs.app/"
       },
       {
+        "title": "KCS store",
+        "blurb": {
+          "en": "Commerce system with a store frontend and backend for small retail (catalog and storefront).",
+          "es": "Sistema de comercio con frontend de tienda y backend para retail pequeño (catálogo y vitrina)."
+        },
+        "tags": [
+          "TypeScript",
+          "Vercel",
+          "Web"
+        ]
+      },
+      {
         "title": "School process automation",
         "blurb": {
           "en": "Macro-enabled Excel system for a school: weekly and yearly planning, syllabi from Word templates, gradebooks, class statistics, TBox activity sequencing, attendance reports, and Veyon classroom-message support. A Power Automate flow uploads gradebooks to TBox.",
@@ -607,6 +619,28 @@
         ]
       },
       {
+        "title": "Photo report tool",
+        "blurb": {
+          "en": "Excel tool that generates photographic reports from structured data, cutting the manual assembly of photo-heavy documents.",
+          "es": "Herramienta Excel que genera reportes fotográficos a partir de datos estructurados, recortando el armado manual de documentos con muchas fotos."
+        },
+        "tags": [
+          "Excel",
+          "VBA"
+        ]
+      },
+      {
+        "title": "excel-query",
+        "blurb": {
+          "en": "Command-line interface to query Excel tables without opening the files in Excel.",
+          "es": "Interfaz de línea de comandos para consultar tablas de Excel sin abrir los archivos en Excel."
+        },
+        "tags": [
+          "Python",
+          "Excel"
+        ]
+      },
+      {
         "title": "Learning apps for kids",
         "blurb": {
           "en": "Collection of web apps to reinforce math, Spanish, and German.",
@@ -617,6 +651,19 @@
           "Education"
         ],
         "url": "https://github.com/Korckyjals-CODE/LearningAppsForKids"
+      },
+      {
+        "title": "Computer guides",
+        "blurb": {
+          "en": "Worksheet viewer and resource hub for computer class materials: worksheets, a topic matrix, session guides, and samples.",
+          "es": "Visor de hojas de trabajo y hub de materiales para clases de computación: worksheets, matriz de temas, guías de sesión y muestras."
+        },
+        "tags": [
+          "Education",
+          "HTML",
+          "Classroom"
+        ],
+        "url": "http://korckyjals-code.com/computer-guides/"
       },
       {
         "title": "Time in German",
