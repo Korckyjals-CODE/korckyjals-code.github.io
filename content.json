@@ -583,18 +583,6 @@
         "url": "https://flashlogs.app/"
       },
       {
-        "title": "KCS store",
-        "blurb": {
-          "en": "Commerce system with a store frontend and backend for small retail (catalog and storefront).",
-          "es": "Sistema de comercio con frontend de tienda y backend para retail pequeño (catálogo y vitrina)."
-        },
-        "tags": [
-          "TypeScript",
-          "Vercel",
-          "Web"
-        ]
-      },
-      {
         "title": "School process automation",
         "blurb": {
           "en": "Macro-enabled Excel system for a school: weekly and yearly planning, syllabi from Word templates, gradebooks, class statistics, TBox activity sequencing, attendance reports, and Veyon classroom-message support. A Power Automate flow uploads gradebooks to TBox.",
