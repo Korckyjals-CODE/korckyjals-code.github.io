@@ -39,6 +39,7 @@ Plain strings are allowed where language does not matter (brand name, email, sta
 - `defaultLanguage` (string): used when no `localStorage` preference exists
 - `email` (string): public inbox only — `info@korckyjals-code.com`
 - `social` (array): `{ id, label (i18n), url }` — org-level only (GitHub org is fine)
+- `productLinks` (array, optional): `{ match: string[], url }` — first-occurrence inline links in **About paragraphs only**
 - `themeDefault` (`"dark"` | `"light"`)
 - `foundedYear` (number, optional metadata)
 - `location` (i18n, optional)

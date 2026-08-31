@@ -141,6 +141,58 @@
     document.body.classList.toggle("menu-open", open);
   }
 
+  function externalLink(href, labelHtml) {
+    return `<a href="${escapeHtml(href)}" target="_blank" rel="noopener noreferrer">${labelHtml}${externalHint()}</a>`;
+  }
+
+  function linkFirstProductMentions(escapedText, linkedProducts) {
+    const links = content.site?.productLinks || content.about?.productLinks || [];
+    let result = escapedText;
+
+    for (const product of links) {
+      const key = product.url;
+      if (!key || linkedProducts.has(key)) continue;
+
+      const matches = Array.isArray(product.match)
+        ? product.match
+        : [product.match].filter(Boolean);
+
+      let hit = null;
+      for (const raw of matches) {
+        const needle = escapeHtml(raw);
+        if (!needle) continue;
+        const index = result.indexOf(needle);
+        if (index === -1) continue;
+        if (!hit || index < hit.index) {
+          hit = { index, needle };
+        }
+      }
+
+      if (!hit) continue;
+
+      const before = result.slice(0, hit.index);
+      const after = result.slice(hit.index + hit.needle.length);
+      result =
+        before +
+        externalLink(product.url, hit.needle) +
+        after;
+      linkedProducts.add(key);
+    }
+
+    return result;
+  }
+
+  function renderAboutParagraphs() {
+    const linkedProducts = new Set();
+    return content.about.paragraphs
+      .map((p) => {
+        const escaped = escapeHtml(t(p));
+        const linked = linkFirstProductMentions(escaped, linkedProducts);
+        return `<p>${linked}</p>`;
+      })
+      .join("");
+  }
+
   function renderHighlights() {
     return `<ul class="highlights">${content.about.highlights
       .map(
@@ -280,9 +332,7 @@
             <h2 id="about-heading">${escapeHtml(t(content.about.title))}</h2>
           </div>
           <div class="about-grid">
-            <div class="prose">${content.about.paragraphs
-              .map((p) => `<p>${escapeHtml(t(p))}</p>`)
-              .join("")}</div>
+            <div class="prose">${renderAboutParagraphs()}</div>
             ${renderHighlights()}
           </div>
         </div>

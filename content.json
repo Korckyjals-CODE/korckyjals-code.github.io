@@ -26,7 +26,28 @@
     "location": {
       "en": "El Salvador",
       "es": "El Salvador"
-    }
+    },
+    "productLinks": [
+      {
+        "match": [
+          "AnselmoBot"
+        ],
+        "url": "https://anselmobot.com"
+      },
+      {
+        "match": [
+          "EduCafé",
+          "EduCafe"
+        ],
+        "url": "https://www.educafe.app/"
+      },
+      {
+        "match": [
+          "FlashLogs"
+        ],
+        "url": "https://flashlogs.app/"
+      }
+    ]
   },
   "ui": {
     "skipToContent": {
@@ -529,7 +550,8 @@
         "status": {
           "en": "Ongoing",
           "es": "En curso"
-        }
+        },
+        "url": "https://www.educafe.app/"
       },
       {
         "title": "AnselmoBot",
@@ -557,7 +579,8 @@
         "status": {
           "en": "Near ready",
           "es": "Casi listo"
-        }
+        },
+        "url": "https://flashlogs.app/"
       },
       {
         "title": "School process automation",
