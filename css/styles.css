@@ -499,6 +499,18 @@ html[data-theme="light"] .icon-btn__sun {
   margin-bottom: 0;
 }
 
+.prose a {
+  color: var(--accent);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+  font-weight: inherit;
+}
+
+.prose a:hover {
+  text-decoration-thickness: 2px;
+}
+
 .highlights {
   display: grid;
   gap: 0.85rem;
